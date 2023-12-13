@@ -1,0 +1,25 @@
+.suggestions {
+	display: flex;
+	flex-direction: row;
+	gap: 2rem;
+}
+
+.home-wrapper {
+	text-align: left;
+}
+
+.home-wrapper h2,
+.home-wrapper p {
+	margin-bottom: 2rem;
+}
+
+.home-wrapper h2{
+	padding: 3rem 0rem 0rem 0rem;
+}
+
+.recommendations {
+	margin-top: 1rem;
+}
+
+
+/* test */

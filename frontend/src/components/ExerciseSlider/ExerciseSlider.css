@@ -1,0 +1,12 @@
+.slider {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	column-gap: 2rem;
+	overflow-x: scroll;
+	margin-bottom: 3rem;
+}
+
+.no-margin {
+	margin: 0;
+}

@@ -1,0 +1,25 @@
+
+.profile-wrapper {
+  text-align: left;
+}
+
+.info-logout{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start
+}
+
+.logout-btn{
+    width: 32px;
+    height: 32px;
+    margin-left: 1.2rem;
+}
+
+.favorite-title{
+    color: var(--darkgreen);
+}
+
+.slider {
+padding: 2rem 0rem 2rem 0rem;
+}
+

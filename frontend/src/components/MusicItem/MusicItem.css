@@ -1,0 +1,17 @@
+.music-item {
+	display: flex;
+	align-items: center;
+	padding: 2rem 0;
+	border-bottom: 1px solid var(--lightgrey);
+}
+
+.music-item div {
+	text-align: left;
+	align-items: flex-start;
+	color: var(--darkgrey);
+}
+
+.music-item div h4 {
+	font-size: 1.2rem;
+	margin-bottom: 0.5rem;
+}

@@ -1,0 +1,35 @@
+.main-wrapper{
+    padding: 1rem;
+}
+
+.welcomePage{
+    background-repeat: no-repeat;
+    overflow: hidden;
+} 
+
+.logo-white{
+    color: var(--lightcream);
+    margin: 0;
+}
+
+.welcomeText{
+    text-align: left;
+    margin: 10% 4%;
+    width: 46%;
+}
+
+.welcomeText h1{
+    color: var(--lightcream);
+}
+
+.getStartedBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 55vh;
+}
+
+.getStartedBtn .main-btn{
+    padding: 20px 130px;
+}
+
